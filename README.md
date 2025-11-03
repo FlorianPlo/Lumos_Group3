@@ -46,7 +46,7 @@ We recommend the following workflow:
     * Your primary task is **data extraction, transformation, and mining**. You will need to query the database, parse the JSON, read the Excel file, and consolidate the many daily shift files to create usable datasets.
     * Your goal is to build a "joint data format" — a set of clean, summary tables (e.g., net profit per order, daily storage cost per product) that the *entire team* can then use for their analysis.
 
-2.  **For Participants with a More Business/Strategy Focus:**
+2.  **For Participants with a More Business/Marketing Focus:**
     * Your primary task is the **contextual and strategic analysis**.
     * Dive into the `Notes_and_Documents_Pack`. Your goal is to synthesize the "story" behind the problems.
     * Use these documents to build hypotheses (e.g., "The marketing plan seems flawed... I wonder if the *data* shows if it's profitable?").
@@ -55,7 +55,7 @@ We recommend the following workflow:
 3.  **Team Collaboration (The Merge):**
     * The two streams *must* merge. The business team's hypotheses should help focus the tech team's analysis. The tech team's findings (e.g., "This specific customer segment is highly unprofitable") must be connected to the business team's context (e.g., "...and the marketing plan is spending 80% of its budget acquiring them!").
 
-## 4. Final Deliverable: A 15-Slide Presentation
+## 4. Final Deliverable: A Slide Presentation
 
 Your team will present your findings to the "Zenith Executive Board" (your assessors).
 
@@ -219,4 +219,5 @@ This one is a special challenge. No library will magically "un-folder" it for yo
 
 1.  Finds all the `.txt` files inside all the subfolders.
 2.  Opens and reads each one.
+
 3.  Combines them all into a single, clean list or DataFrame for your analysis.
