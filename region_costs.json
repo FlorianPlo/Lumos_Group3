@@ -1,0 +1,30 @@
+[
+    {
+        "RegionID": "R-101",
+        "RegionName": "Metro",
+        "Distance_Zone": "Local",
+        "Base_Delivery_Fee": 10.0,
+        "Per_Kg_Fee": 0.25
+    },
+    {
+        "RegionID": "R-102",
+        "RegionName": "Regional",
+        "Distance_Zone": "Regional",
+        "Base_Delivery_Fee": 30.0,
+        "Per_Kg_Fee": 0.75
+    },
+    {
+        "RegionID": "R-103",
+        "RegionName": "Farlands",
+        "Distance_Zone": "Far",
+        "Base_Delivery_Fee": 75.0,
+        "Per_Kg_Fee": 1.5
+    },
+    {
+        "RegionID": "R-104",
+        "RegionName": "Remote Isles",
+        "Distance_Zone": "Remote",
+        "Base_Delivery_Fee": 150.0,
+        "Per_Kg_Fee": 5.0
+    }
+]

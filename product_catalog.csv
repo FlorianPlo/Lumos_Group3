@@ -1,0 +1,19 @@
+ProductID,ProductName,Weight_kg,CostPrice,SellingPrice,Category,Subcategory,Description,StorageRequirements
+FIT-101,ProTread X1000,135.0,850.0,1499.99,Cardio Equipment,Treadmill,Commercial-grade treadmill for home or studio use.,Bulky Item Floor Space
+FIT-102,Cyclone Spin Bike,45.0,320.0,599.99,Cardio Equipment,Exercise Bike,High-resistance indoor cycling bike for endurance training.,Bulky Item Floor Space
+FIT-103,AquaRow Rower,38.0,400.0,749.99,Cardio Equipment,Rowing Machine,"Water-resistance rower providing smooth, full-body workouts.",Bulky Item Floor Space
+FIT-201,FlexiGrip Dumbbell Set,48.0,180.0,349.99,Strength Training,Dumbbells,Adjustable dumbbell set for versatile strength exercises.,Heavy-Duty Shelf
+FIT-202,CastIron Kettlebell 16kg,16.0,30.0,59.99,Strength Training,Kettlebell,Durable cast-iron kettlebell for conditioning and strength.,Standard Shelf
+FIT-203,PowerLift Squat Rack,70.0,300.0,549.99,Strength Training,Rack,Space-efficient squat rack with adjustable safety bars.,Bulky Item Floor Space
+FIT-204,Olympic Barbell 20kg,20.0,110.0,199.99,Strength Training,Barbell,Standard 20kg Olympic barbell suitable for heavy lifting.,Long Item Rack
+FIT-205,Bumper Plate Set 100kg,100.0,250.0,449.99,Strength Training,Weight Plates,Set of shock-absorbing bumper plates for Olympic lifting.,Heavy-Duty Shelf
+FIT-301,CoreBalance Yoga Mat,1.5,15.0,34.99,Fitness Accessories,Yoga Mat,Non-slip yoga mat for stretching and yoga workouts.,Standard Shelf
+FIT-302,SpeedCoil Jump Rope,0.4,12.0,29.99,Fitness Accessories,Jump Rope,High-speed jump rope for cardio and agility training.,Small Bin
+FIT-303,GridFoam Roller,0.8,14.0,29.99,Fitness Accessories,Foam Roller,Textured roller for muscle recovery and mobility work.,Standard Shelf
+FIT-304,PowerBand Set,0.6,10.0,24.99,Fitness Accessories,Resistance Bands,Versatile resistance bands for stretching and strength training.,Small Bin
+FIT-401,PureGain Whey 5lb,2.3,45.0,69.99,Supplements,Protein Powder,Whey protein blend for post-workout muscle recovery.,Climate Controlled Room
+FIT-402,Amped Pre-Workout,0.3,22.0,39.99,Supplements,Pre-Workout,Stimulant formula to boost workout energy and focus.,Climate Controlled Room
+FIT-501,Men's Tech Tee,0.2,11.0,29.99,Apparel,Shirt,Breathable athletic t-shirt for training and casual wear.,Apparel Rack
+FIT-502,Women's Align Leggings,0.2,18.0,49.99,Apparel,Leggings,Comfort stretch leggings designed for yoga and fitness sessions.,Apparel Rack
+FIT-503,React Running Shoe,0.7,40.0,119.99,Footwear,Running Shoe,Cushioned running shoe for road and treadmill training.,Standard Shelf
+FIT-601,PulseFit Tracker 2,0.1,55.0,129.99,Wearables,Fitness Tracker,Activity tracker with heart-rate monitoring and step tracking.,Secure Cabinet
