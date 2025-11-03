@@ -1,0 +1,60 @@
+Legend: Shift data for 2023-02-27
+Encoding used: cp1252
+----------------------------------------
+ShiftID; EmployeeID; Hours_Worked
+----------------------------------------
+SH-202200 , FT-101 , 8 hrs
+SH-202201 , FT-102 , 8 hrs
+SH-202202 , FT-103 , 8 hrs
+SH-202203 , FT-104 , 8 hrs
+SH-202204 , FT-105 , 8 hrs
+SH-202205 , FT-106 , 8 hrs
+SH-202206 , FT-107 , 8 hrs
+SH-202207 , FT-108 , 8 hrs
+SH-202208 , FT-109 , 8 hrs
+SH-202209 , FT-110 , 8 hrs
+SH-202210 , FT-111 , 8 hrs
+SH-202211 , FT-112 , 8 hrs
+SH-202212 , FT-113 , 8 hrs
+SH-202213 , FT-114 , 8 hrs
+SH-202214 , FT-115 , 8 hrs
+SH-202215 , FT-116 , 8 hrs
+SH-202216 , FT-117 , 8 hrs
+SH-202217 , FT-118 , 8 hrs
+SH-202218 , FT-119 , 8 hrs
+SH-202219 , FT-120 , 8 hrs
+SH-202220 , FTS-11 , 8 hrs
+SH-202221 , FTS-12 , 8 hrs
+SH-202222 , FTS-13 , 8 hrs
+SH-202223 , FTS-14 , 8 hrs
+SH-202224 , FTS-15 , 8 hrs
+SH-202225 , PT-201 , 8 hrs
+SH-202226 , PT-202 , 8 hrs
+SH-202227 , PT-203 , 8 hrs
+SH-202228 , PT-204 , 8 hrs
+SH-202229 , PT-205 , 8 hrs
+SH-202230 , PT-206 , 8 hrs
+SH-202231 , PT-207 , 8 hrs
+SH-202232 , PT-208 , 8 hrs
+SH-202233 , PT-209 , 8 hrs
+SH-202234 , PT-210 , 8 hrs
+SH-202235 , PT-211 , 8 hrs
+SH-202236 , PT-212 , 8 hrs
+SH-202237 , PT-213 , 8 hrs
+SH-202238 , PT-214 , 8 hrs
+SH-202239 , PT-215 , 8 hrs
+SH-202240 , PT-216 , 8 hrs
+SH-202241 , PT-217 , 8 hrs
+SH-202242 , PT-218 , 8 hrs
+SH-202243 , PT-219 , 8 hrs
+SH-202244 , PT-220 , 8 hrs
+SH-202245 , PT-221 , 8 hrs
+SH-202246 , PT-222 , 8 hrs
+SH-202247 , PT-223 , 8 hrs
+SH-202248 , PT-224 , 8 hrs
+SH-202249 , PT-225 , 8 hrs
+SH-202250 , PT-226 , 8 hrs
+SH-202251 , PT-227 , 8 hrs
+SH-202252 , PT-228 , 8 hrs
+SH-202253 , PT-229 , 8 hrs
+SH-202254 , PT-230 , 8 hrs

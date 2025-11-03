@@ -1,0 +1,30 @@
+Legend: Shift data for 2023-11-23
+Encoding used: cp1252
+----------------------------------------
+ShiftID; EmployeeID; Hours_Worked
+----------------------------------------
+SH-208720 , FT-101 , 8 hrs
+SH-208721 , FT-102 , 8 hrs
+SH-208722 , FT-103 , 8 hrs
+SH-208723 , FT-104 , 8 hrs
+SH-208724 , FT-105 , 8 hrs
+SH-208725 , FT-106 , 8 hrs
+SH-208726 , FT-107 , 8 hrs
+SH-208727 , FT-108 , 8 hrs
+SH-208728 , FT-109 , 8 hrs
+SH-208729 , FT-110 , 8 hrs
+SH-208730 , FT-111 , 8 hrs
+SH-208731 , FT-112 , 8 hrs
+SH-208732 , FT-113 , 8 hrs
+SH-208733 , FT-114 , 8 hrs
+SH-208734 , FT-115 , 8 hrs
+SH-208735 , FT-116 , 8 hrs
+SH-208736 , FT-117 , 8 hrs
+SH-208737 , FT-118 , 8 hrs
+SH-208738 , FT-119 , 8 hrs
+SH-208739 , FT-120 , 8 hrs
+SH-208740 , FTS-11 , 8 hrs
+SH-208741 , FTS-12 , 8 hrs
+SH-208742 , FTS-13 , 8 hrs
+SH-208743 , FTS-14 , 8 hrs
+SH-208744 , FTS-15 , 8 hrs

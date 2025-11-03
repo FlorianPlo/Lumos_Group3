@@ -1,0 +1,45 @@
+Legend: Shift data for 2023-04-21
+Encoding used: cp1252
+----------------------------------------
+ShiftID; EmployeeID; Hours_Worked
+----------------------------------------
+SH-203790 , FT-101 , 8 hrs
+SH-203791 , FT-102 , 8 hrs
+SH-203792 , FT-103 , 8 hrs
+SH-203793 , FT-104 , 8 hrs
+SH-203794 , FT-105 , 8 hrs
+SH-203795 , FT-106 , 8 hrs
+SH-203796 , FT-107 , 8 hrs
+SH-203797 , FT-108 , 8 hrs
+SH-203798 , FT-109 , 8 hrs
+SH-203799 , FT-110 , 8 hrs
+SH-203800 , FT-111 , 8 hrs
+SH-203801 , FT-112 , 8 hrs
+SH-203802 , FT-113 , 8 hrs
+SH-203803 , FT-114 , 8 hrs
+SH-203804 , FT-115 , 8 hrs
+SH-203805 , FT-116 , 8 hrs
+SH-203806 , FT-117 , 8 hrs
+SH-203807 , FT-118 , 8 hrs
+SH-203808 , FT-119 , 8 hrs
+SH-203809 , FT-120 , 8 hrs
+SH-203810 , FTS-11 , 8 hrs
+SH-203811 , FTS-12 , 8 hrs
+SH-203812 , FTS-13 , 8 hrs
+SH-203813 , FTS-14 , 8 hrs
+SH-203814 , FTS-15 , 8 hrs
+SH-203815 , PT-201 , 6 hrs
+SH-203816 , PT-202 , 6 hrs
+SH-203817 , PT-203 , 6 hrs
+SH-203818 , PT-204 , 6 hrs
+SH-203819 , PT-205 , 6 hrs
+SH-203820 , PT-206 , 6 hrs
+SH-203821 , PT-207 , 6 hrs
+SH-203822 , PT-208 , 6 hrs
+SH-203823 , PT-209 , 6 hrs
+SH-203824 , PT-210 , 6 hrs
+SH-203825 , PT-211 , 6 hrs
+SH-203826 , PT-212 , 6 hrs
+SH-203827 , PT-213 , 6 hrs
+SH-203828 , PT-214 , 6 hrs
+SH-203829 , PT-215 , 6 hrs

@@ -1,0 +1,60 @@
+Legend: Shift data for 2023-02-14
+Encoding used: cp1252
+----------------------------------------
+ShiftID; EmployeeID; Hours_Worked
+----------------------------------------
+SH-201705 , FT-101 , 8 hrs
+SH-201706 , FT-102 , 8 hrs
+SH-201707 , FT-103 , 8 hrs
+SH-201708 , FT-104 , 8 hrs
+SH-201709 , FT-105 , 8 hrs
+SH-201710 , FT-106 , 8 hrs
+SH-201711 , FT-107 , 8 hrs
+SH-201712 , FT-108 , 8 hrs
+SH-201713 , FT-109 , 8 hrs
+SH-201714 , FT-110 , 8 hrs
+SH-201715 , FT-111 , 8 hrs
+SH-201716 , FT-112 , 8 hrs
+SH-201717 , FT-113 , 8 hrs
+SH-201718 , FT-114 , 8 hrs
+SH-201719 , FT-115 , 8 hrs
+SH-201720 , FT-116 , 8 hrs
+SH-201721 , FT-117 , 8 hrs
+SH-201722 , FT-118 , 8 hrs
+SH-201723 , FT-119 , 8 hrs
+SH-201724 , FT-120 , 8 hrs
+SH-201725 , FTS-11 , 8 hrs
+SH-201726 , FTS-12 , 8 hrs
+SH-201727 , FTS-13 , 8 hrs
+SH-201728 , FTS-14 , 8 hrs
+SH-201729 , FTS-15 , 8 hrs
+SH-201730 , PT-201 , 8 hrs
+SH-201731 , PT-202 , 8 hrs
+SH-201732 , PT-203 , 8 hrs
+SH-201733 , PT-204 , 8 hrs
+SH-201734 , PT-205 , 8 hrs
+SH-201735 , PT-206 , 8 hrs
+SH-201736 , PT-207 , 8 hrs
+SH-201737 , PT-208 , 8 hrs
+SH-201738 , PT-209 , 8 hrs
+SH-201739 , PT-210 , 8 hrs
+SH-201740 , PT-211 , 8 hrs
+SH-201741 , PT-212 , 8 hrs
+SH-201742 , PT-213 , 8 hrs
+SH-201743 , PT-214 , 8 hrs
+SH-201744 , PT-215 , 8 hrs
+SH-201745 , PT-216 , 8 hrs
+SH-201746 , PT-217 , 8 hrs
+SH-201747 , PT-218 , 8 hrs
+SH-201748 , PT-219 , 8 hrs
+SH-201749 , PT-220 , 8 hrs
+SH-201750 , PT-221 , 8 hrs
+SH-201751 , PT-222 , 8 hrs
+SH-201752 , PT-223 , 8 hrs
+SH-201753 , PT-224 , 8 hrs
+SH-201754 , PT-225 , 8 hrs
+SH-201755 , PT-226 , 8 hrs
+SH-201756 , PT-227 , 8 hrs
+SH-201757 , PT-228 , 8 hrs
+SH-201758 , PT-229 , 8 hrs
+SH-201759 , PT-230 , 8 hrs
